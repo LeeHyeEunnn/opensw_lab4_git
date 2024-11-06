@@ -5,6 +5,6 @@
 int main(){
     foo();
     goo();
-    printf("main\n");
+    printf("main is wondweful!\n");
     return 0;
 }
